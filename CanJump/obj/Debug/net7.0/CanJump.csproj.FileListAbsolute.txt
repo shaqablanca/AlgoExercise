@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/CanJump
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/CanJump.deps.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/CanJump.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/CanJump.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/CanJump.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/refint/CanJump.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/CanJump.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/ref/CanJump.dll

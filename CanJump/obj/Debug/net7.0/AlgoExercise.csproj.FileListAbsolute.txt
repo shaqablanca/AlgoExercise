@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/AlgoExercise
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/AlgoExercise.deps.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/AlgoExercise.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/AlgoExercise.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/bin/Debug/net7.0/AlgoExercise.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/refint/AlgoExercise.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/AlgoExercise.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/AlgoExercise/obj/Debug/net7.0/ref/AlgoExercise.dll
