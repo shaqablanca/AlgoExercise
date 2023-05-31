@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/LongestPalindromeSubstring/LongestPalindromeSubstring.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/LongestPalindromeSubstring.csproj",
       "projectName": "LongestPalindromeSubstring",
-      "projectPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/LongestPalindromeSubstring/LongestPalindromeSubstring.csproj",
+      "projectPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/LongestPalindromeSubstring.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/LongestPalindromeSubstring/obj/",
+      "outputPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"

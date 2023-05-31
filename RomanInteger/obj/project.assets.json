@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/RomanInteger/RomanInteger.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/RomanInteger.csproj",
       "projectName": "RomanInteger",
-      "projectPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/RomanInteger/RomanInteger.csproj",
+      "projectPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/RomanInteger.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/RomanInteger/obj/",
+      "outputPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"

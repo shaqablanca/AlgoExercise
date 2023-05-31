@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromeSubstring"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanInteger", "RomanInteger\RomanInteger.csproj", "{52D5D198-3C97-4340-81F5-09F5AEF22079}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canjump", "Canjump\Canjump.csproj", "{4372ABFA-A291-4705-A7A3-D9A0C5ABCD24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{52D5D198-3C97-4340-81F5-09F5AEF22079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52D5D198-3C97-4340-81F5-09F5AEF22079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52D5D198-3C97-4340-81F5-09F5AEF22079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4372ABFA-A291-4705-A7A3-D9A0C5ABCD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4372ABFA-A291-4705-A7A3-D9A0C5ABCD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4372ABFA-A291-4705-A7A3-D9A0C5ABCD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4372ABFA-A291-4705-A7A3-D9A0C5ABCD24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

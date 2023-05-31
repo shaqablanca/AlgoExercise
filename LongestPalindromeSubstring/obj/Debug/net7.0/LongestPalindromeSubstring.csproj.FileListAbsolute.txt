@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/bin/Debug/net7.0/LongestPalindromeSubstring
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/bin/Debug/net7.0/LongestPalindromeSubstring.deps.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/bin/Debug/net7.0/LongestPalindromeSubstring.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/bin/Debug/net7.0/LongestPalindromeSubstring.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/bin/Debug/net7.0/LongestPalindromeSubstring.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/refint/LongestPalindromeSubstring.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/LongestPalindromeSubstring.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/LongestPalindromeSubstring/obj/Debug/net7.0/ref/LongestPalindromeSubstring.dll

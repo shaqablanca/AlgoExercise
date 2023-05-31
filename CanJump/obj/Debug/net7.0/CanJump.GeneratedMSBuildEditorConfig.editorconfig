@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CanJump
-build_property.ProjectDir = /Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/AlgoExercise/
+build_property.RootNamespace = Canjump
+build_property.ProjectDir = /Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/Canjump/

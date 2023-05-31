@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DczDhNFt1aYlM3Np36+xUuEgLSaXZPPiSepdu1XPJMaTp3s9DhRWgUjTMlyC7uwqSLg/4h8v9hNLp5KfkBzs/A==",
+  "dgSpecHash": "GlaP9hpW8rqVhgydMKS0t9kWV0qyjvRcnqZ9YgqzlDx6nsd0X7VesqJfujiRcSbIdctEZ4o7wpVjZmXkD/GokQ==",
   "success": true,
-  "projectFilePath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/RomanInteger/RomanInteger.csproj",
+  "projectFilePath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/RomanInteger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

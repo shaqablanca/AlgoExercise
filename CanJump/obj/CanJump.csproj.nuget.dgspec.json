@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/AlgoExercise/CanJump.csproj": {}
+    "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/Canjump/Canjump.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/AlgoExercise/CanJump.csproj": {
+    "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/Canjump/Canjump.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/AlgoExercise/CanJump.csproj",
-        "projectName": "CanJump",
-        "projectPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/AlgoExercise/CanJump.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/Canjump/Canjump.csproj",
+        "projectName": "Canjump",
+        "projectPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/Canjump/Canjump.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgorithmExercise/AlgoExersice/AlgoExercise/obj/",
+        "outputPath": "/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/Canjump/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
