@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{7480C088-4CF8-47DC-846C-121169ED823F}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LongestPalindromeSubstring/Program.cs">
+    <Files>
+      <File FileName="RomanInteger/Program.cs" Line="13" Column="22" />
+      <File FileName="LongestPalindromeSubstring/Program.cs" Line="9" Column="32" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AlgoExercise" expanded="True">
             <Node name="RomanInteger" expanded="True" />
-            <Node name="CanJump" selected="True" />
           </Node>
         </State>
       </Pad>

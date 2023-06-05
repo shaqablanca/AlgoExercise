@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/bin/Debug/net7.0/RomanInteger
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/bin/Debug/net7.0/RomanInteger.deps.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/bin/Debug/net7.0/RomanInteger.runtimeconfig.json
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/bin/Debug/net7.0/RomanInteger.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/bin/Debug/net7.0/RomanInteger.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/refint/RomanInteger.dll
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.pdb
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/RomanInteger.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/CSharp/AlgoExercise/AlgoExercise/RomanInteger/obj/Debug/net7.0/ref/RomanInteger.dll
